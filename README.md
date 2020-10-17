@@ -17,3 +17,4 @@
 
 **Tests completed**
 
+[Ссылочка](#Lab2)
